@@ -1,3 +1,3 @@
 # Emojifier
 
-an implementation of emojifier by Keras
+An implementation of emojifier by Keras
